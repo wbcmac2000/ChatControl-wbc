@@ -5,7 +5,7 @@ A chat management plugin for Bukkit.
 
 Features
 -----------
-
+* Edited by wbcmac2000
 * Efficient antispam that works. This include commands (e.g. private messages).
 * Blocking of advertisements, swears, etc in chat, commands and signs.
 * Own rules, e.g. replace a piece of text with another text.
