@@ -5,5 +5,5 @@ author: kangarko
 soft-depend: [ProtocolLib]
 commands: 
   chatcontrol:
-    aliases: [ccontrol, chatc, chc]
+    aliases: [ccontrol, chatfilter, filter]
     description: Main ChatControl command. Type /chatcontrol list for commands.
